@@ -2,7 +2,7 @@
 deep learning for NLP
 
 word2vec
-brow
+cbrow
 rnn
 lstm
 bi-lstm
@@ -13,4 +13,4 @@ xlnet
 simbert
 macbert
 roberta
-gbt3
+deformer
